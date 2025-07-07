@@ -1,6 +1,6 @@
 # Engine Architecture
 
-CheckMate++ is built using a modular archetecture for maintainibility and scalability. Below is an overview of the major components:
+CheckMate++ is built using a modular archetecture for maintainibility and scalability. Below is an overview of the MAJOR COMPONENTS:
 
 ## Core Modules
 
