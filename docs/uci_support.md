@@ -10,6 +10,7 @@ CheckMate++ fully supports the UCI (Universal Chess Interface) protocol, making 
 - `go`  
 - `stop`
 - `quit`
+- `delete`
 
 ## Limitations
 
