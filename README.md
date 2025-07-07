@@ -2,7 +2,7 @@
 
 # CheckMate++ ♟️
 
-CheckMate++ is a blazing-fast, C++-powered chess engine with a focus on modularity, extensibility, and brutal stragtegy. It uses advanced search algorithms and a heuristic-evaluation function to dominate oponents on the board.
+CheckMate++ is a blazing-fast, C++-powered chess engine with a focus on modularity, extensibility, and brutal strategy. It uses advanced search algorithms and a heuristic-evaluation function to dominate opponents on the board.
 
 ## Features
 
