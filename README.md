@@ -6,10 +6,10 @@ CheckMate++ is a blazing-fast, C++-powered chess engine with a focus on modulari
 
 ## Features
 
-- Minimax and Alpha-Betta pruning
+- Minimax and Alpha-Beta pruning
 - UCI protocol support
 - Opening book and basic endgame tablebases
-- Multithreaded positon evaluation
+- Multithreaded position evaluation
 
 ## Installation
 
