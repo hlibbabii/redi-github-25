@@ -7,7 +7,7 @@ CheckMate++ uses a hand-crafted evaluation function for fast position assessment
 
 - Material count
 - Piece-square tables
-- King safty
+- King safety
 - Pawn structure
 - Mobility
 - Center control
