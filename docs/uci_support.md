@@ -1,6 +1,6 @@
 # UCI Protocol Support
 
-CheckMate++ fully supports the UCI (Universal Chess Interface) protocol, making it compatible with popular GUIs such as Arena and Fritz.
+CheckMate++ fully supports the **UCI (Universal Chess Interface)** protocol, making it compatible with popular GUIs such as **Arena** and **Fritz**.
 
 ## Supported Commands
 
@@ -11,6 +11,7 @@ CheckMate++ fully supports the UCI (Universal Chess Interface) protocol, making 
 - `stop`
 - `quit`
 - `delete`
+<!-- There is no typo error in Supported Commands (following comment is only for the owner of this repository's attention)-->
 
 ## Limitations
 
@@ -24,4 +25,6 @@ These will be added in upcomming releases.
 ## Usage Tips
 
 Make sure the GUI has permission to execute the engine binary. On Linux or macOS, you might need to run:
+```
 chmod +x checkmatepp
+```
