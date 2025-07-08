@@ -11,6 +11,7 @@ CheckMate++ fully supports the **UCI (Universal Chess Interface)** protocol, mak
 - `stop`
 - `quit`
 - `delete`
+<!-- There is no typo error in Supported Commands (following comment is only for the owner of this repository's attention)-->
 
 ## Limitations
 
