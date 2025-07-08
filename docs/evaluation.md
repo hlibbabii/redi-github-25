@@ -1,7 +1,7 @@
 
 # Evaluation Heuristics
 
-CheckMate++ uses a hand-crafted evaluation funtion for fast position assessment.
+CheckMate++ uses a hand-crafted evaluation function for fast position assessment.
 
 ## Factors Considered
 
