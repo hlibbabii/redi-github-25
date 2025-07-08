@@ -14,7 +14,7 @@ CheckMate++ uses a hand-crafted evaluation function for fast position assessment
 
 ## Scoring
 
-Evaluation scores are returned in centipawns. Positive scores favor white; negative scores favor black. A drawish postion returns 0.
+Evaluation scores are returned in centipawns. Positive scores favor White; negative scores favor Black. A drawish position returns 0.
 
 ## Plans for Improvement
 
