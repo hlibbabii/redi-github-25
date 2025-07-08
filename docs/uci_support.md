@@ -25,4 +25,6 @@ These will be added in upcomming releases.
 ## Usage Tips
 
 Make sure the GUI has permission to execute the engine binary. On Linux or macOS, you might need to run:
+```
 chmod +x checkmatepp
+```
