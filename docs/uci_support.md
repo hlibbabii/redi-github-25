@@ -15,7 +15,7 @@ CheckMate++ fully supports the UCI (Universal Chess Interface) protocol, making 
 ## Limitations
 
 Currently, the engine does not support:
-- Pondering
+- Pondering!
 - Multi-PV (Multi principal variation)
 - Engine options beyond basic hash size
 
