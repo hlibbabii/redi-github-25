@@ -6,8 +6,8 @@ CheckMate++ is built using a modular architecture for maintainability and scalab
 
 - **Board Representation**: Uses bitboards for fast computation.
 - **Move Generation**: Pseudolegal and legal move generation with filtering.
-- **Search Engine**: Implements iterative deepning with Alpha-Beta pruning.
-- **Evaluation**: Heuristic functions evaluating material, pawn strcture, mobility, etc.
+- **Search Engine**: Implements iterative deepening with Alpha-Beta pruning.
+- **Evaluation**: Heuristic functions evaluating material, pawn structure, mobility, etc.
 
 ## Threading Model
 
